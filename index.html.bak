@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV</title>
+</head>
+<body>
+<h1><i><p align="center">Curriculum Vitae</i></b></h1>
+<img src="jo17su25gvr11.jpg" align="right" height="15%" width="12%">
+<pre> <h1>Hackerman</h1><hr size="20%"></pre><pre><b>
+Address:           Mirpur,Dhaka-1269,Bangladesh
+Phone  :           +88018400880845
+E-mail :           mssan@gmail.com</b></pre>
+<p><h2>Personal Details</h2></u></p><hr>
+<pre><b>
+Date of Birth :    19 November 2002
+Nationality   :    Bangladeshi
+Merital Status:    Pure Single</b></pre>
+<p><h2>Education</h2></u></p><hr>
+<pre><b>
+<table border="1"style="width:100%">
+<tr><td><h3>Exams</h3></td><td><h3>Year</h3></td><td><h3>Institute</h3></td><td><h3>Result</h3></td></tr>
+<tr><td>SSC</td><td>2018</td><td>Mirpur Bangla High school and college</td><td>5.00</td></tr>
+<tr><td>HSC</td><td>2020</td><td>Monipur High School And College</td><td>5.00</td></tr>
+<tr><td>BSC</td><td>2020-2024</td><td>University Of Dhaka</td><td>4.00</td></tr>
+<tr><td>MSC</td><td>2024-2026</td><td>University Of Dhaka</td><td>4.00</td></tr></b></table></pre>
+
+<p><h2>Work Experience</h2></u></p><hr>
+
+
+<pre>
+August 2026- Present      <strong>Bangladesh Hacker community</strong>
+                  
+                          Former fb id hacker
+                          Part time web server hacker
+						  
+</pre>
+
+</body>
+</html>
